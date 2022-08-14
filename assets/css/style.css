@@ -36,7 +36,7 @@ body{
 .container {
     margin: 10% auto;
     width: 300px;
-    height: 450px;
+    height: max-content;
     display: flex;
     flex-direction: column;
     background-color: var(--white);
